@@ -17,4 +17,4 @@ particular password is done for first time when he books the hotel room.
 It involves the concepts of affine cipher encryption. And when it comes to this
 type of encryption system we can assure the customers with higher level of
 security, because hacking of the mathematical function used in generating the
-password is very tedious and time consuming.
+password is very tedious and time consumimg.
