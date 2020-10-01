@@ -1,4 +1,4 @@
- ![image](https://drive.google.com/uc?export=view&id=1sYurLEi4vWy5Xzb__xyHBskt2J6teXFT)
+ **WELCOME TO AFFINE HOTELS**
 
 ## Hotel Room Locking System
 
@@ -22,3 +22,5 @@ Access to the room is granted only if the guest swipes his key and enters the pa
   10. Enter your last generated Password and click on Unlock the Door.
   11. Have a Secured Stay !!
   12. Thank you for choosing Affine Hotels !
+
+![image](https://drive.google.com/uc?export=view&id=1sYurLEi4vWy5Xzb__xyHBskt2J6teXFT)
