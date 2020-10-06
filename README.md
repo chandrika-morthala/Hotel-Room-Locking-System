@@ -10,15 +10,15 @@ Access to the room is granted only if the guest swipes his key and enters the pa
 
 ## How to use Security Swiper ?
 
-  1. Dear Guest, Please kindly follow these security guidelines for your safety.
+  1. Dear Guest, kindly follow these security guidelines for your safety.
   2. You have reached your room and you will find your hotel room key in the security swiper.
   3. Initial access is granted to enter your room.
-  4. Now, Please enter your name for the first time only.
+  4. Enter your name for the first time only.
   5. Click on Generate Password and kindly wait for 5 seconds.
-  6. Now, an encrypted password is generated using Encryption algorithms.
+  6. An encrypted password is generated using Encryption algorithms.
   7. To lock your room, close the door properly and pull your hotel room key out of the swiper.
-  8. Kindly donot share your password and please remember this for next unlock of your hotel room.
-  9. When you want to unlock and enter back into your room, Slide the room key into the swiper machine.
+  8. Kindly do not share your password and please remember the password for next unlock of your room.
+  9. When you want to unlock and enter back into your room, slide the room key into the swiper machine.
   10. Enter your last generated Password and click on Unlock the Door.
   11. Have a Secured Stay !!
   12. Thank you for choosing Affine Hotels !
